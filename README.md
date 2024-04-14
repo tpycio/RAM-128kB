@@ -9,7 +9,7 @@ The module allows 32kB of memory banks to be switched to use 128kB of RAM in 64k
 
 ### Schematic
 
-[Schematic - Version 1.0](Schematic.pdf)
+[Schematic - Version 1.0](schematic.pdf)
 
 ## Bill of Materials
 
